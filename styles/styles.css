@@ -1,2 +1,24 @@
 
 
+.raleway-normal{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.size{
+    margin: 0 auto;
+}
+.btn-primary{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 12px 36px;
+    border: none;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 150px;
+}
