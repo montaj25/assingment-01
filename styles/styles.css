@@ -105,13 +105,13 @@ main{
 }
 section input[type="text"], input[type="email"]{
     height:70px;
-    width: 97%;
+    width: 95%;
     padding: 20px 30px;
     border: none;
 }
 .message{
       height:140px;
-    width: 97%;
+    width: 95%;
     padding: 20px 30px;
 }
 .btn-secondary{
@@ -149,4 +149,5 @@ body ul a{
 }
 .list-item{
     display: flex;
+    gap: 20px;
 }
