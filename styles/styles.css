@@ -102,6 +102,7 @@ section input[type="text"], input[type="email"]{
     height:70px;
     width: 97%;
     padding: 20px 30px;
+    border: none;
 }
 .message{
       height:140px;
@@ -114,4 +115,30 @@ section input[type="text"], input[type="email"]{
 }
 .column2{
     width: 50%;
+}
+.footer-bg{
+    background-color: white;
+
+}
+.name3{
+        color: #4E47FF;
+        margin: 104px 574px 0px;
+        text-align: center;
+        padding: ;
+
+}
+.title-description{
+    /* margin: 0px 20px; */
+}
+body li{
+    list-style: none;
+}
+body ul a{
+    text-decoration: none;
+    color:black;
+    /* align-content: space-between; */
+}
+.list-item{
+    display: flex;
+    /* align-content: center; */
 }
