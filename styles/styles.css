@@ -155,5 +155,12 @@ body ul a{
 }
 .column11{
     display: flex;
+    justify-content: center;
     background-color: whitesmoke;
+}
+.column22{
+    display: flex;
+    gap: 50px;
+    padding: 10px;
+    
 }
