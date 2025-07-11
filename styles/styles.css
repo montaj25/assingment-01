@@ -65,7 +65,7 @@ main{
 }
 .body1-img{
   border-radius: 15px;
-  max-width: 403px;
+
 }
 
 .title2{
@@ -145,9 +145,15 @@ body li{
 body ul a{
     text-decoration: none;
     color:black;
-    /* align-content: space-between; */
 }
 .list-item{
     display: flex;
     gap: 20px;
+}
+.column111{
+    display: flex;
+}
+.column11{
+    display: flex;
+    background-color: whitesmoke;
 }
